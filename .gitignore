@@ -1,2 +1,11 @@
 *.ipynb_checkpoints
 NumPy\*.ipynb_checkpoints
+Air_Quality_Data_in_India/city_day.csv
+Air_Quality_Data_in_India/city_hour.csv
+Air_Quality_Data_in_India/station_day.csv
+Air_Quality_Data_in_India/station_hour.csv
+Air_Quality_Data_in_India/stations.csv
+NumPy/.ipynb_checkpoints/NumPy-the absolute basics for beginners-checkpoint.ipynb
+*.ipynb
+Pandas/titanic.xlsx
+Pandas/city_day.csv

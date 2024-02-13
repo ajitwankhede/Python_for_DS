@@ -9,3 +9,4 @@ NumPy/.ipynb_checkpoints/NumPy-the absolute basics for beginners-checkpoint.ipyn
 *.ipynb
 Pandas/titanic.xlsx
 Pandas/city_day.csv
+Pandas/air_quality.csv
